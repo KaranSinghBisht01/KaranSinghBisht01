@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there I am Karan 👋
+>’m a Computer Science student currently focused on building full-stack applications with the MERN stack. When I’m not working on projects, I spend my time solving algorithmic problems on LeetCode and Codeforces to sharpen my logic.
 <!--
 **KaranSinghBisht01/KaranSinghBisht01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
