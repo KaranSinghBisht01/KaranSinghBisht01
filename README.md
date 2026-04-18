@@ -18,6 +18,18 @@
 **Tools & Core CS** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 > **Knowledge in:** Operating Systems, DBMS,Computer Network,Design analysis and algorithm,Compiler design.
+> ### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaranSinghBisht01&show_icons=true&theme=dark" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranSinghBisht01&layout=compact&theme=dark" width="300" />
+</p>
+### 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-singh-bisht-3114242b8/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Krnnn01/)
+
+---
 <!--
 **KaranSinghBisht01/KaranSinghBisht01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
