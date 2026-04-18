@@ -1,5 +1,5 @@
 ## Hi there I am Karan 👋
->’m a Computer Science student currently focused on building full-stack applications with the MERN stack. When I’m not working on projects, I spend my time solving algorithmic problems on LeetCode and Codeforces to sharpen my logic.
+>I’m a Computer Science student currently focused on building full-stack applications with the MERN stack. When I’m not working on projects, I spend my time solving algorithmic problems on LeetCode and Codeforces to sharpen my logic.
 >### 🛠 Skills
 
 **Languages** ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
