@@ -24,7 +24,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KaranSinghBisht01&show_icons=true&theme=dark" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranSinghBisht01&layout=compact&theme=dark" width="300" />
 </p>
-### 🔗 Connect with me
+### 🔗 profiles
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-singh-bisht-3114242b8/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Krnnn01/)
